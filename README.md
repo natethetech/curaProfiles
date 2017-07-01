@@ -34,9 +34,9 @@ M84 ; disable motors</pre>
 * Heated Bed **Enable**
 
 ### PRINTHEAD SETTINGS
-Xmin **31mm**
-Ymin **40mm**
-Xmax **34mm**
-Ymax **31mm**
-Gantry **28mm**
-Nozzle **0.4 (varies)**
+* Xmin **31mm**
+* Ymin **40mm**
+* Xmax **34mm**
+* Ymax **31mm**
+* Gantry **28mm**
+* Nozzle **0.4 (varies)**
