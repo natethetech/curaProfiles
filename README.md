@@ -26,19 +26,17 @@ G1 X100 Y210; home X axis and push Y forward
 M84 ; disable motors</pre>
 
 ### Bed Settings
-X = <pre>250mm</pre>
-Y = <pre>210mm</pre>
-Z = <pre>200mm</pre>
-
-Build Plate = <pre>Rectangular</pre>
-
-* Machine center is NOT zero *
-* Heated Bed Enable *
+* X = **250mm**
+* Y = **210mm**
+* Z = **200mm**
+* Build Plate **Rectangular**
+* Machine center is **NOT** zero
+* Heated Bed **Enable**
 
 ### PRINTHEAD SETTINGS
-Xmin <pre>31mm</pre>
-Ymin <pre>40mm</pre>
-Xmax <pre>34mm</pre>
-Ymax <pre>31mm</pre>
-Gantry <pre>28mm</pre>
-Nozzle <pre>0.4 (varies)</pre>
+Xmin **31mm**
+Ymin **40mm**
+Xmax **34mm**
+Ymax **31mm**
+Gantry **28mm**
+Nozzle **0.4 (varies)**
